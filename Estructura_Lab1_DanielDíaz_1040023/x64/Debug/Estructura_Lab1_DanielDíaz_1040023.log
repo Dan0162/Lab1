@@ -1,0 +1,2 @@
+﻿  Estructura_Lab1_DanielDíaz_1040023.cpp
+C:\Users\Dany\source\repos\Estructura_Lab1_DanielDíaz_1040023\Estructura_Lab1_DanielDíaz_1040023\Estructura_Lab1_DanielDíaz_1040023.cpp(1,10): error C1853: 'x64\Debug\Estructura_Lab1_DanielDíaz_1040023.pch' precompiled header file is from a different version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
